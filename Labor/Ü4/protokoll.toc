@@ -1,0 +1,6 @@
+\babel@toc {naustrian}{}\relax 
+\contentsline {section}{\numberline {1}Sym. Stern mit Neutrall.}{1}{}%
+\contentsline {section}{\numberline {2}Sym. Stern ohne N}{2}{}%
+\contentsline {section}{\numberline {3}Unsym. Stern mit N}{3}{}%
+\contentsline {section}{\numberline {4}Unsym. Stern mit N}{4}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
