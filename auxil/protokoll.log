@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.14)  20 SEP 2022 09:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.14)  21 SEP 2022 09:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -831,29 +831,36 @@ aryintersections.code.tex
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryfpu.code.tex)
 \pgf@intersect@solutions=\count301
-)))
+))) (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count302
+\float@exts=\toks39
+\float@box=\box91
+\@float@everytoks=\toks40
+\@floatcapt=\box92
+)
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
-\l__pdf_internal_box=\box91
+\l__color_backend_stack_int=\count303
+\l__pdf_internal_box=\box93
 ) (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.aux)
 \openout1 = `protokoll.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -894,17 +901,17 @@ LaTeX Font Info:    ... okay on input line 18.
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
+\scratchcounter=\count304
 \scratchdimen=\dimen285
-\scratchbox=\box92
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count306
+\scratchbox=\box94
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count307
 \MPscratchDim=\dimen286
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks40
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks42
 )
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -917,7 +924,7 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-LF on 
-input line 20.
+input line 21.
 
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\t1sources
 anspro-lf.fd
@@ -926,14 +933,14 @@ eSansPro-LF.
 )
 
 LaTeX Font Warning: Font shape `T1/SourceSansPro-LF/k/n' undefined
-(Font)              using `T1/SourceSansPro-LF/m/n' instead on input line 20.
+(Font)              using `T1/SourceSansPro-LF/m/n' instead on input line 21.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' aliased to
-(Font)              `T1/SourceSansPro-LF/regular/n' on input line 20.
+(Font)              `T1/SourceSansPro-LF/regular/n' on input line 21.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' aliased to
-(Font)              `T1/SourceSansPro-LF/bold/n' on input line 20.
+(Font)              `T1/SourceSansPro-LF/bold/n' on input line 21.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-0.
+1.
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.toc)
@@ -942,97 +949,98 @@ File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 
 [1
 
-{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 38--39
-[] 
- []
-
-
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 56--57
-[] 
+{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 65--66
+[][] 
  []
 
 [1]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 74--75
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 83--84
+[][] 
  []
 
 [2]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 92--93
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 105--106
+[][] 
  []
 
 [3]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 110--111
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 124--125
+[][] 
  []
 
 [4]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 128--129
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 151--152
+[][] 
  []
 
 [5]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 146--147
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 169--170
+[][] 
  []
 
 [6]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 164--165
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 195--196
+[][] 
  []
 
 [7]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 182--183
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 214--215
+[][] 
  []
 
 [8]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 200--201
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 238--239
+[][] 
  []
 
 [9]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 218--219
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 257--258
+[][] 
  []
 
 [10]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 236--237
-[] 
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 279--280
+[][] 
  []
 
-[11] [12] (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.aux)
+[11]
+Overfull \hbox (57.10529pt too wide) in paragraph at lines 298--299
+[][] 
+ []
+
+[12] [13] (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22776 strings out of 475389
- 522492 string characters out of 2777000
- 1005495 words of memory out of 3000000
- 43730 multiletter control sequences out of 15000+600000
- 499276 words of font info for 53 fonts, out of 8000000 for 9000
+ 22880 strings out of 475389
+ 525229 string characters out of 2777000
+ 1008954 words of memory out of 3000000
+ 43829 multiletter control sequences out of 15000+600000
+ 500047 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,106p,10627b,741s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,11n,106p,10627b,837s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx
-1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecsx1440.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecrm1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecsx1728.pk>{C:/Users/danie/AppData/Local/Programs/MiKTeX/f
-onts/enc/dvips/sourcesanspro/a_7n4q7u.enc}<C:/Users/danie/AppData/Local/Program
-s/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/danie
-/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Re
-gular.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmmi10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmmi8.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+1200.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecsx1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecsx1440.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecsx1728.pk>{C:/Users/danie/AppData/Local/Programs/Mi
+KTeX/fonts/enc/dvips/sourcesanspro/a_7n4q7u.enc}<C:/Users/danie/AppData/Local/P
+rograms/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users
+/danie/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSans
+Pro-Regular.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danie/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 Output written on C:/Users\danie\IdeaProjects\4AHET-DaNussi\out\protokoll.pdf (
-14 pages, 232567 bytes).
+14 pages, 251110 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
+ 308 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
