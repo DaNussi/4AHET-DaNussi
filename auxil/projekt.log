@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.14)  21 SEP 2022 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.14)  1 DEC 2022 08:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./protokoll.tex
-(protokoll.tex
+**./projekt.tex
+(projekt.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30>
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cl
@@ -153,8 +153,8 @@ Package tocbasic Info: babel extension for `lot' omitted
 \c@table=\count193
 Class scrartcl Info: Redefining `\numberline' on input line 6288.
 \bibindent=\dimen138
-) (et-labor.sty (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/base\fo
-ntenc.sty
+) (et-projekt.sty (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/base\
+fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
@@ -831,36 +831,49 @@ aryintersections.code.tex
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryfpu.code.tex)
 \pgf@intersect@solutions=\count301
-))) (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count302
-\float@exts=\toks39
-\float@box=\box91
-\@float@everytoks=\toks40
-\@floatcapt=\box92
+))) (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.s
+ty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen285
+\lightrulewidth=\dimen286
+\cmidrulewidth=\dimen287
+\belowrulesep=\dimen288
+\belowbottomsep=\dimen289
+\aboverulesep=\dimen290
+\abovetopsep=\dimen291
+\cmidrulesep=\dimen292
+\cmidrulekern=\dimen293
+\defaultaddspace=\dimen294
+\@cmidla=\count302
+\@cmidlb=\count303
+\@aboverulesep=\dimen295
+\@belowrulesep=\dimen296
+\@thisruleclass=\count304
+\@lastruleclass=\count305
+\@thisrulewidth=\dimen297
 )
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
-\l__pdf_internal_box=\box93
-) (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.aux)
-\openout1 = `protokoll.aux'.
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box91
+) (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\projekt.aux)
+\openout1 = `projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -901,17 +914,17 @@ LaTeX Font Info:    ... okay on input line 19.
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
-\scratchdimen=\dimen285
-\scratchbox=\box94
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count307
-\MPscratchDim=\dimen286
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count307
+\scratchdimen=\dimen298
+\scratchbox=\box92
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen299
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -924,7 +937,7 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-LF on 
-input line 21.
+input line 18.
 
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\t1sources
 anspro-lf.fd
@@ -933,114 +946,49 @@ eSansPro-LF.
 )
 
 LaTeX Font Warning: Font shape `T1/SourceSansPro-LF/k/n' undefined
-(Font)              using `T1/SourceSansPro-LF/m/n' instead on input line 21.
+(Font)              using `T1/SourceSansPro-LF/m/n' instead on input line 18.
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' aliased to
-(Font)              `T1/SourceSansPro-LF/regular/n' on input line 21.
+(Font)              `T1/SourceSansPro-LF/regular/n' on input line 18.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' aliased to
-(Font)              `T1/SourceSansPro-LF/bold/n' on input line 21.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-1.
+(Font)              `T1/SourceSansPro-LF/bold/n' on input line 18.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+8.
 (C:\Users\danie\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.toc)
+) [1
+
+{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (C:/Users\da
+nie\IdeaProjects\4AHET-DaNussi\auxil\projekt.toc)
 \tf@toc=\write4
-\openout4 = `protokoll.toc'.
+\openout4 = `projekt.toc'.
 
-[1
-
-{C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 66--67
-[][] 
- []
-
-[1]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 84--85
-[][] 
- []
-
-[2]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 107--108
-[][] 
- []
-
-[3]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 126--127
-[][] 
- []
-
-[4]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 153--154
-[][] 
- []
-
-[5]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 171--172
-[][] 
- []
-
-[6]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 197--198
-[][] 
- []
-
-[7]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 216--217
-[][] 
- []
-
-[8]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 240--241
-[][] 
- []
-
-[9]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 259--260
-[][] 
- []
-
-[10]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 281--282
-[][] 
- []
-
-[11]
-Overfull \hbox (57.10529pt too wide) in paragraph at lines 300--301
-[][] 
- []
-
-[12] [13] (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\protokoll.aux)
+[1] [2] (C:/Users\danie\IdeaProjects\4AHET-DaNussi\auxil\projekt.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22880 strings out of 475389
- 525229 string characters out of 2777000
- 1008954 words of memory out of 3000000
- 43829 multiletter control sequences out of 15000+600000
- 500047 words of font info for 54 fonts, out of 8000000 for 9000
+ 22762 strings out of 475389
+ 521734 string characters out of 2777000
+ 1002192 words of memory out of 3000000
+ 43712 multiletter control sequences out of 15000+600000
+ 499276 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,106p,10627b,837s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,11n,106p,10627b,281s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx
-1200.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecsx1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecsx1440.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecsx1728.pk>{C:/Users/danie/AppData/Local/Programs/Mi
-KTeX/fonts/enc/dvips/sourcesanspro/a_7n4q7u.enc}<C:/Users/danie/AppData/Local/P
-rograms/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users
-/danie/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSans
-Pro-Regular.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi8.pfb><C:/Users/danie/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danie/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on C:/Users\danie\IdeaProjects\4AHET-DaNussi\out\protokoll.pdf (
-14 pages, 253277 bytes).
+1440.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1095.pk> <C:\Users\danie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecsx1728.pk>{C:/Users/danie/AppData/Local/Programs/MiKTeX/fonts/e
+nc/dvips/sourcesanspro/a_7n4q7u.enc}<C:/Users/danie/AppData/Local/Programs/MiKT
+eX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/danie/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.
+pfb>
+Output written on C:/Users\danie\IdeaProjects\4AHET-DaNussi\out\projekt.pdf (3 
+pages, 167504 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
+ 181 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

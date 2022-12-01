@@ -1,0 +1,106 @@
+% ===========================================================================
+% et-projekt.sty - Stylefile fuer CPE-Projekte            W.Haager, 27.3.2019
+% ===========================================================================
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[naustrian]{babel}
+\usepackage[width=160mm,height=240mm,centering]{geometry}
+\usepackage{graphicx}
+\usepackage{xcolor,tikz}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\renewcommand{\footrulewidth}{0.4pt}
+\pagestyle{fancy}
+\lhead{\titel}
+\rhead{Seite \thepage}
+\lfoot{\jahrgang}
+\cfoot{Elektrotechnik}
+\rfoot{}
+\newif\ifindex\indexfalse
+
+\usetikzlibrary{backgrounds,arrows.meta,shadows,circuits.ee.IEC,shapes,
+  decorations.pathmorphing,patterns,automata,positioning,calc,intersections}
+
+\parskip=\medskipamount
+\parindent=0pt
+
+\definecolor{htlgruenp}{cmyk}{0.6,0,0.96,0}
+\definecolor{htlgraup}{cmyk}{0,0,0,80}
+
+% Definition der Logos (Parameter ist die Breite des Logos); ohne Text und
+% mit Text (in der Unterlaenge):
+
+\def\htlstplogo#1{{%
+  \resizebox{#1}{!}{\relax
+  \color{htlgruenp}\relax
+  \rule{3.22mm}{6.44mm}\rule[1.61mm]{3.22mm}{3.22mm}\hspace{0.33mm}\relax
+  \color{htlgraup}\relax
+  \rule{3.22mm}{6.44mm}\rule[3.22mm]{3.22mm}{3.22mm}\hspace{0.33mm}\relax
+  \color{htlgruenp}\relax
+  \rule{3.22mm}{6.44mm}\rule{3.22mm}{3.22mm}}}}
+
+\def\htlstptextlogo#1{{%
+  \resizebox{#1}{!}{\raisebox{-2.56mm}{\relax
+  \rlap{\fontfamily{SourceSansPro-LF}\fontseries{k}\relax
+  \fontsize{1.975mm}{5mm}\selectfont\hspace*{-0.07em}\relax
+  \color{htlgraup}HTL~ST.~P\"OLTEN}}\relax
+  \color{htlgruenp}\relax
+  \rule{3.22mm}{6.44mm}\rule[1.61mm]{3.22mm}{3.22mm}\hspace{0.33mm}\relax
+  \color{htlgraup}\relax
+  \rule{3.22mm}{6.44mm}\rule[3.22mm]{3.22mm}{3.22mm}\hspace{0.33mm}\relax
+  \color{htlgruenp}\relax
+  \rule{3.22mm}{6.44mm}\rule{3.22mm}{3.22mm}}}}
+
+\def\etheader{%
+   {\htlstptextlogo{35mm}\hfill
+   \fontfamily{SourceSansPro-LF}\fontseries{b}\relax\fontsize{7mm}{9mm}\selectfont
+   \color{htlgruenp}
+   ELEKTROTECHNIK}}
+
+\def\jahrgang{~}
+\def\projekttyp{~}
+\def\titel{~}
+\def\lehrer{~}
+\def\projektdauer{~}
+\def\abgabedatum{~}
+\def\schueler{~}
+
+\def\Jahrgang#1{\def\jahrgang{#1}}
+\def\Projekttyp#1{\def\projekttyp{#1}}
+\def\Titel#1{\def\titel{#1}}
+\def\Lehrer#1{\def\lehrer{#1}}
+\def\Projektdauer#1{\def\projektdauer{#1}}
+\def\Abgabedatum#1{\def\abgabedatum{#1}}
+\def\Schueler#1{\def\schueler{#1}}
+
+\long\def\Titelseite{%
+    \begin{titlepage}
+        \def\arraystretch{1.7}
+        \doublerulesep=0pt
+        \parbox[b][0pt][b]{\textwidth}{\etheader}
+        \par\bigskip\bigskip\bigskip
+        \begin{center}
+         \LARGE\bfseries\sffamily\projekttyp\\\titel
+        \end{center}
+        \par\bigskip
+        \begin{tabularx}{\textwidth}{||X|X||}
+            \hline\hline
+            \textbf{Jahrgang}          & \jahrgang \\\hline
+            \textbf{Lehrer}          & \lehrer \\\hline
+            \textbf{Sch\"uler} (Namen, Unterschriften)
+            & \parbox[t][0mm]{60mm}{\baselineskip=8mm\schueler\rule[-2mm]{0mm}{3mm}} \\\cline{2-2}
+            \textsl{} &\\\cline{2-2}
+                                    & \\\cline{2-2}
+                                    & \\\hline\hline
+            \textbf{Projektdauer}   & \projektdauer \\\hline
+            \textbf{Abgabedatum}     & \abgabedatum \\\hline\hline
+        \end{tabularx}
+        \ifindex\par\vfill\tableofcontents\vfill\fi
+    \end{titlepage}
+    \setcounter{page}{1}
+}
+
+

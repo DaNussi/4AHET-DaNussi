@@ -1,0 +1,9 @@
+\babel@toc {naustrian}{}
+\contentsline {chapter}{ Diplomandenvorstellung}{iii}{section*.3}% 
+\babel@toc {english}{}
+\babel@toc {naustrian}{}
+\babel@toc {naustrian}{}
+\contentsline {chapter}{\nonumberline Abk\IeC {\"u}rzungsverzeichnis}{1}{chapter*.8}% 
+\contentsline {chapter}{Abbildungsverzeichnis}{2}{section*.9}% 
+\contentsline {chapter}{Tabellenverzeichnis}{2}{section*.11}% 
+\contentsline {chapter}{Literaturverzeichnis}{4}{section*.13}% 

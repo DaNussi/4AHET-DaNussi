@@ -1,0 +1,5 @@
+\babel@toc {naustrian}{}
+\contentsline {section}{\numberline {1}Aufgabenstellung}{2}
+\contentsline {section}{\numberline {2}Berchnung}{2}
+\contentsline {section}{\numberline {3}Simulation des Einschaltverhaltens}{2}
+\contentsline {section}{\numberline {4}Interessante Erkenntnisse}{2}

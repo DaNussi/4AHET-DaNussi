@@ -10,4 +10,5 @@
 \contentsline {subsection}{\numberline {3.2}Dreieckschaltung}{9}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}Symmetrische Belastung}{9}{}%
 \contentsline {subsubsection}{\numberline {3.2.2}Asymmetrische Belastung}{11}{}%
+\contentsline {section}{\numberline {4}Erkentnis}{13}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
